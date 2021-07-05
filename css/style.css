@@ -3,18 +3,21 @@ body{
 font-family: 'Roboto', sans-serif;
 margin:0;
 }
-h2{
-  color:orange;
+h1,h2{
+  color:#333;
 }
+
 #color{
   color:orange;
 }
 .first-container{
-  display:flex;
-  margin-bottom:100px;
+  display:flex;  
+}
+.background1{
   background-image:url(/images/shapes/Frame\ 57.jpg);
   background-repeat:no-repeat;
   background-position:left;
+
 }
 .half-width{
   width:50%;
@@ -29,7 +32,7 @@ h2{
   text-align:justify;
   padding:200px 50px;
   font-size:20px;
-  color:#333;
+  
 }
 .first-button{
   text-decoration:none;
@@ -37,6 +40,31 @@ h2{
   font-weight:700;
   background-image:linear-gradient(orange,tomato);
   padding:10px 35px;
-  border-radius:5px;
+  border-radius:15px;
+  margin-top:20px;
+  display:inline-block;
+  margin-top:20px;
+
+  
+  
 }
 /*end of first section*/
+#second-image{
+  width:500px;
+  
+  padding:0px 250px;
+  
+}
+.second-container{
+  display:flex;
+  background-image:url(/images/shapes/Frame\ 58.jpg);
+  background-repeat:no-repeat;
+  background-position:left;
+  
+  
+}
+.second-text-section{
+ 
+  margin-right: 10px 50px;
+}
+/*end of seciond section */
