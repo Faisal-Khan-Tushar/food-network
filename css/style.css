@@ -68,3 +68,52 @@ h1,h2{
   margin-right: 10px 50px;
 }
 /*end of seciond section */
+.third-container{
+  margin-bottom:100px;
+}
+.recipe-image{
+ display:flex;
+ 
+}
+.recipie-section{
+  text-align:center;
+}
+#recipie-section-paragraph{
+  
+  margin:10px 450px;
+  line-height:1.7em;
+  margin-bottom:20px;
+}
+.first-image-container{
+    display:block;
+    height:400px;
+    width:300px;
+    margin-left:475px;
+
+    border-radius:20px;
+    text-align:center;
+    padding-top:20px;
+    border:2px solid whitesmoke;
+    background-color:white;
+    box-shadow:20px 20px 50px whitesmoke;
+      
+
+}
+.below-text{
+  text-align:left;
+  padding-left:10px;
+}
+#first-recipie-pic{
+  width:80%;
+  border-radius:30px;
+  
+  
+}
+.seond-image-recipie-class{
+ margin-left:40px;
+}
+/*end of the third section */
+
+
+
+
