@@ -1,3 +1,42 @@
+body{
+  font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+margin:0;
+}
 h2{
   color:orange;
 }
+#color{
+  color:orange;
+}
+.first-container{
+  display:flex;
+  margin-bottom:100px;
+  background-image:url(/images/shapes/Frame\ 57.jpg);
+  background-repeat:no-repeat;
+  background-position:left;
+}
+.half-width{
+  width:50%;
+  
+  margin-top:100px;
+}
+.half-width-image{
+  width:80%;
+  padding-left:30px;
+}
+#first-text-section{
+  text-align:justify;
+  padding:200px 50px;
+  font-size:20px;
+  color:#333;
+}
+.first-button{
+  text-decoration:none;
+  color:white;
+  font-weight:700;
+  background-image:linear-gradient(orange,tomato);
+  padding:10px 35px;
+  border-radius:5px;
+}
+/*end of first section*/
